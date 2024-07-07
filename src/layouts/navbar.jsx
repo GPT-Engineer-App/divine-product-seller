@@ -25,7 +25,6 @@ const Layout = () => {
       <main className="flex-grow overflow-auto">
         <Outlet />
       </main>
-    </main>
       <Footer />
     </div>
   );
